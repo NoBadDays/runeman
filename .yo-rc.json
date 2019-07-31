@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "nobaddays.runman"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "runeMan",
+    "packageName": "nobaddays.runman",
+    "packageFolder": "nobaddays/runman",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTQ0ZGQwZTk2MzRmNWY3Y2JiY2NlNWZiYWI5NjA2NzFkODI5NjJjZDk2ODZlNzVjMjU5YmFlYTcyMTY2MWM5MDBlNmQ5MDdmODdiN2NlYzNkNWE2MTVlOTY2MjBhNWUzZDcyZGNmMGU2ODBjMTJhMTVhZjE3ZjM3NDRlZmE1NDk=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
